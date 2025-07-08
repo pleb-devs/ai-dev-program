@@ -1,0 +1,3 @@
+[submodule "new-project-boilerplate"]
+	path = new-project-boilerplate
+	url = https://github.com/pleb-devs/new-project-boilerplate.git
