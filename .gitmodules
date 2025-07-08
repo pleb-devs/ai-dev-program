@@ -1,3 +1,9 @@
 [submodule "new-project-boilerplate"]
 	path = new-project-boilerplate
 	url = https://github.com/pleb-devs/new-project-boilerplate.git
+[submodule "freedom-tech"]
+	path = freedom-tech
+	url = https://github.com/pleb-devs/freedom-tech.git
+[submodule "ai-guides"]
+	path = ai-guides
+	url = https://github.com/pleb-devs/ai-guides.git
