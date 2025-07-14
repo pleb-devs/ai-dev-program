@@ -14,21 +14,21 @@ The PlebDevs AI Development Program provides technical scaffolding for developer
 
 This program consists of three core resource repositories designed to support the complete development lifecycle:
 
-### 🤖 [AI Guides](./ai-guides/)
+### 🤖 [AI Guides](https://github.com/pleb-devs/ai-guides)
 Comprehensive guide for choosing and evaluating AI development tools based on pricing, power, and trustworthiness.
 - AI tool comparison matrix (cost vs capability vs trust)
 - LLM and coding agent recommendations
 - Security and privacy considerations for AI tools
 - Guidance for selecting tools
 
-### 🛡️ [Freedom Tech](./freedom-tech/)
+### 🛡️ [Freedom Tech](https://github.com/pleb-devs/freedom-tech)
 Curated list of secure, adversarial, and freedom-focused technologies, packages, and libraries for building sovereign applications.
 - Secure communication protocols
 - Privacy-preserving technologies
 - Decentralized infrastructure tools
 - Censorship-resistant platforms
 
-### 🚀 [New Project Boilerplate](./new-project-boilerplate/)
+### 🚀 [New Project Boilerplate](https://github.com/pleb-devs/new-project-boilerplate)
 Documentation-first development methodology with boilerplate prompts, templates, and processes for building LLM-driven applications.
 - Systematic project setup workflows
 - AI-optimized development patterns
