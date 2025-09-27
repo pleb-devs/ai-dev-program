@@ -15,11 +15,18 @@ The PlebDevs AI Development Program provides technical scaffolding for developer
 This program consists of three core resource repositories designed to support the complete development lifecycle:
 
 ### 🤖 [AI Guides](https://github.com/pleb-devs/ai-guides)
-Comprehensive guide for choosing and evaluating AI development tools based on pricing, power, and trustworthiness.
-- AI tool comparison matrix (cost vs capability vs trust)
-- LLM and coding agent recommendations
-- Security and privacy considerations for AI tools
-- Guidance for selecting tools
+Comprehensive, opinionated guides for evaluating and using AI development tools with an emphasis on cost, capability, privacy, and trust.
+
+- **Guide format (consistent across all tools):**
+  1. **Overview** — What the tool is and when to use it  
+  2. **Setup** — Install steps and initial configuration  
+  3. **Beginner usage** — A basic, repeatable workflow  
+  4. **Pro usage** — Advanced workflows, automation, power features  
+  5. **Cost savings guide** — Control/optimize spend effectively  
+  6. **Privacy guide** — Data & metadata handling best practices  
+  7. **Security guide** — Safe operation, secrets, and permissions
+
+> The AI Guides emphasize practical, reproducible workflows that fit adversarial and privacy-first environments (local models, locked-down permissions, clear cost controls).
 
 ### 🛡️ [Freedom Tech](https://github.com/pleb-devs/freedom-tech)
 Curated list of secure, adversarial, and freedom-focused technologies, packages, and libraries for building sovereign applications.
@@ -37,9 +44,9 @@ Documentation-first development methodology with boilerplate prompts, templates,
 
 ## Getting Started
 
-1. **Define Your Project**: Start with the [New Project Boilerplate](./new-project-boilerplate/) to establish your project foundation
-2. **Choose Your Stack**: Explore [Freedom Tech](./freedom-tech/) for secure, privacy-focused technology recommendations
-3. **Implement with AI**: Use [AI Guides](./ai-guides/) to leverage LLM-powered development workflows
+1. **Define Your Project**: Start with the **New Project Boilerplate** (`./new-project-boilerplate/`) to establish your project foundation  
+2. **Choose Your Stack**: Explore **Freedom Tech** (`./freedom-tech/`) for secure, privacy-focused technology recommendations  
+3. **Implement with AI**: Use **AI Guides** (`./ai-guides/`) to leverage LLM-powered development workflows  
 4. **Build Securely**: Follow established patterns for building in adversarial environments
 
 ## Who This Is For
