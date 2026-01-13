@@ -6,8 +6,7 @@
 ## Early Access
 
 All resources are available now and actively maintained! The **free course** walking through the complete AI development workflow is coming very soon!
-<!-- TODO: Replace with teaser video embed -->
-[![Program Teaser](https://img.shields.io/badge/Coming_Soon-Teaser_Video-blue?style=for-the-badge)](https://plebdevs.com)
+[![Watch the Teaser](https://plebdevs-bucket.nyc3.cdn.digitaloceanspaces.com/images/plebdevs-ai/plebdevs-ai-teaser-1-thumbnail.png)](https://plebdevs-bucket.nyc3.cdn.digitaloceanspaces.com/videos/plebdevs/plebdevs-ai-teaser-1.mp4)
 
 ## Program Resources
 
@@ -49,13 +48,13 @@ llm/
 └── workflows/      # Repeatable runbooks
 ```
 
-**Start with:** [`llm/project/setup.md`](./new-project-boilerplate/llm/project/setup.md) for the complete walkthrough.
+**Start with:** [`llm/project/setup.md`](https://github.com/pleb-devs/new-project-boilerplate/blob/main/llm/project/setup.md) for the complete walkthrough.
 
 ## Getting Started
 
-1. **Plan your project** — Use [New Project Boilerplate](./new-project-boilerplate/) to define structure, rules, and phases
-2. **Choose your stack** — Browse [Freedom Tech](./freedom-tech/) for sovereignty-focused libraries; use `agent-prompt.md` when prompting AI for tech suggestions
-3. **Set up your AI tools** — Follow [AI Guides](./ai-guides/) to configure coding agents with privacy and cost controls
+1. **Set up your AI tools** — Follow [AI Guides](https://github.com/pleb-devs/ai-guides) to configure coding agents with privacy and cost controls
+2. **Choose your stack** — Browse [Freedom Tech](https://github.com/pleb-devs/freedom-tech) for sovereignty-focused libraries; use `agent-prompt.md` when prompting AI for tech suggestions
+3. **Build your project** — Use [New Project Boilerplate](https://github.com/pleb-devs/new-project-boilerplate) to define structure, rules, and phases
 
 ## Who This Is For
 
