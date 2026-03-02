@@ -5,8 +5,8 @@
 
 ## Course Status
 
-Lesson 1 of the free AI Development Program course is now live and actively maintained.  
-The rest of the course will be released over the coming weeks at [PlebDevs](https://plebdevs.com).
+Lesson 1 of the free AI Development Program course is now live on [PlebDevs](https://plebdevs.com) !
+The rest of the course will be released over the coming weeks.
 [![Watch the Teaser](https://plebdevs-bucket.nyc3.cdn.digitaloceanspaces.com/images/plebdevs-ai/plebdevs-ai-teaser-1-thumbnail.png)](https://plebdevs-bucket.nyc3.cdn.digitaloceanspaces.com/videos/plebdevs/plebdevs-ai-teaser-1.mp4)
 
 ## Program Resources
